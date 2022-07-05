@@ -1,0 +1,74 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.row{
+    display: flex;
+}
+
+.col {
+    width: 50%;
+    padding: 40px 60px;
+    margin-bottom: 130px;
+    margin-left: 38px;
+}
+
+.orange{
+
+    color: orange;
+}
+
+.link-button {
+    text-decoration: none;
+    font-weight: 500;
+    padding: 10px 20px;
+    color: #ffffff;
+    border-radius: 24px;
+    background-image: linear-gradient(to right, #FBA24F, #FF1E1E);
+
+}
+
+.banner-title{
+ margin-top: 30px;
+}
+
+.banner-title h1{
+    font-size: 50px;
+    font-weight: 700;
+}
+.banner-pic{
+    width: 100%;
+}
+
+.banner-title p{
+    color: #828282;
+    margin-bottom: 40px;
+}
+
+.about-title{
+    margin-right: 30px;
+}
+
+.about-title h3{
+font-size: 30px;
+color: #707070;
+font-weight: 700;
+}
+
+.about-title p{
+    color: #18191F;
+    margin-bottom: 60px;
+}
+
+.about-pic {
+    width: 337px;
+    height: 100%;
+    margin-left: 70px;
+}
+
+.about-bg{
+background-image: url(img/7.png);
+background-repeat: no-repeat;
+
+}
